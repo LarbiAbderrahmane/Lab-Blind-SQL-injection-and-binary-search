@@ -4,7 +4,8 @@ Another approach to solve portswigger lab: Blind SQL injection, using Binary Sea
 ## **Introduction**
 
 Using binary search to narrow down the number of requests needed to find the password.\
-Check this Medium Write-Up for more details : 
+Check this Write-Up in Medium for more details : \
+https://medium.com/@larbiabderrahmane33/lab-blind-sql-injection-automated-solution-using-binary-search-with-python-ae3f01760c50
 
 ## **Installation**
 This script is tested in Python 3.11.8

@@ -11,7 +11,7 @@ This script is tested in Python 3.11.8
 
 To install it, follow these steps:
 
-1. Clone the repository: 
+1. Clone the repository: \
 **`git clone git@github.com:LarbiAbderrahmane/Lab-Blind-SQL-injection-and-binary-search.git`**\
 or \
 **`git clone https://github.com/LarbiAbderrahmane/Lab-Blind-SQL-injection-and-binary-search.git`**\

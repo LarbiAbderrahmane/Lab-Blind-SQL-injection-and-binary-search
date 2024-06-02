@@ -3,7 +3,7 @@ Another approach to solve portswigger lab: Blind SQL injection, using Binary Sea
 
 ## **Introduction**
 
-using binary search to narrow down the number of requests needed to find the password.\
+Using binary search to narrow down the number of requests needed to find the password.\
 Check this Medium Write-Up for more details : 
 
 ## **Installation**

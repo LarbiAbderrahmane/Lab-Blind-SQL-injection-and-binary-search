@@ -16,13 +16,9 @@ for i in range(1, 21):
             oe = m - 1
         print("out", os, oe)
         count = count + 1
-    if oe != os:
-        if eq_req(i, chr(os)):
-            c = chr(os)
-        else:
-            c = chr(oe)
-    else:
-        c = chr(os)
+    c = chr(os)
+    if oe != os and eq_req(i, chr(oe)):
+        c = chr(oe)
     print("found!", c)
     password = password + c
 
